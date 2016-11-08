@@ -1,0 +1,17 @@
+input {
+    width: 75px;
+}
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+		color: red;
+	}
+}
+		
+div {
+    margin-left: 5%;
+	margin-top: 2%;
+}

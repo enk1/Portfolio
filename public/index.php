@@ -3,10 +3,14 @@
 	ob_start();
 ?>
 <!doctype html>
-<html>
+<html lang="pl">
 <head>
 	<meta charset="utf-8" />
-	<title>Strona główna</title>
+	<title>Bookstore - login</title>
+
+	<link rel="stylesheet" type="text/css" href="/dist/vendors/bootstrap.min.css">
+	<script src="/dist/vendors/bootstrap.min.js"></script>
+
 	<link rel="stylesheet" type="text/css" href="main.css" media="all">
 </head>			
 <body>
